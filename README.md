@@ -45,10 +45,10 @@ A modern Premium CRM System built using **Java, JSP, Servlets, MySQL, HTML, CSS 
 ## 📷 Screenshots
 
 ### Login Page
-![Login](images/login.png)
+![Login](CRMSystem/src/main/webapp/images/login.png)
 
 ### Dashboard
-![Dashboard](images/dashboard.png)
+![Dashboard](CRMSystem/src/main/webapp/images/dashboard.png)
 
 ### Dark Theme
 ![Dark](images/dark_mode.png)
