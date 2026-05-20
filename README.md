@@ -51,31 +51,31 @@ A modern Premium CRM System built using **Java, JSP, Servlets, MySQL, HTML, CSS 
 ![Dashboard](CRMSystem/src/main/webapp/images/dashboard.png)
 
 ### Dark Theme
-![Dark](images/dark_mode.png)
+![Dark](CRMSystem/src/main/webapp/images/dark_mode.png)
 
 ### Light Theme
-![Light](images/light_mode.png)
+![Light](CRMSystem/src/main/webapp/images/light_mode.png)
 
 ### Clients
-![Clients](images/viewClients.png)
+![Clients](CRMSystem/src/main/webapp/images/viewClients.png)
 
 ### Add Client
-![Add Client](images/addClient.png)
+![Add Client](CRMSystem/src/main/webapp/images/addClient.png)
 
 ### Tasks
-![Tasks](images/tasks.png)
+![Tasks](CRMSystem/src/main/webapp/images/tasks.png)
 
 ### Communication Center
-![Communication](images/communications.png)
+![Communication](CRMSystem/src/main/webapp/images/communications.png)
 
 ### Files
-![Files](images/files.png)
+![Files](CRMSystem/src/main/webapp/images/files.png)
 
 ### Invoices
-![Invoices](images/invoices.png)
+![Invoices](CRMSystem/src/main/webapp/images/invoices.png)
 
 ### Reports
-![Reports](images/reports.png)
+![Reports](CRMSystem/src/main/webapp/images/reports.png)
 
 ---
 
