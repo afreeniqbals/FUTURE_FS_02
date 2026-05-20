@@ -1,0 +1,185 @@
+@charset "UTF-8";
+
+/* =========================
+   TABLET
+========================= */
+
+@media(max-width:950px){
+
+    body{
+
+        padding:20px;
+
+        overflow:auto;
+    }
+
+    .login-container{
+
+        width:100%;
+
+        flex-direction:column;
+
+        min-height:auto;
+    }
+
+    .left-side,
+    .right-side{
+
+        width:100%;
+    }
+
+    .left-side{
+
+        padding:55px 40px;
+    }
+
+    .right-side{
+
+        padding:60px 35px;
+    }
+
+    .left-side h1{
+
+        font-size:48px;
+    }
+
+    .welcome{
+
+        font-size:36px;
+    }
+
+    .top-bar{
+
+        flex-direction:column;
+
+        align-items:flex-start;
+
+        gap:15px;
+    }
+
+}
+
+/* =========================
+   MOBILE
+========================= */
+
+@media(max-width:600px){
+
+    body{
+
+        padding:15px;
+    }
+
+    .login-container{
+
+        border-radius:26px;
+    }
+
+    .left-side{
+
+        padding:40px 28px;
+    }
+
+    .right-side{
+
+        padding:45px 25px;
+    }
+
+    .logo{
+
+        width:72px;
+        height:72px;
+
+        font-size:28px;
+
+        border-radius:22px;
+    }
+
+    .left-side h1{
+
+        font-size:38px;
+
+        letter-spacing:-2px;
+    }
+
+    .left-side p{
+
+        font-size:14px;
+    }
+
+    .info-box{
+
+        margin-top:40px;
+
+        padding:20px;
+    }
+
+    .welcome{
+
+        font-size:30px;
+    }
+
+    .subtitle{
+
+        font-size:14px;
+
+        margin-bottom:32px;
+    }
+
+    .input-field{
+
+        height:56px;
+
+        font-size:14px;
+    }
+
+    .login-btn{
+
+        height:56px;
+    }
+
+    .google-btn{
+
+        height:54px;
+    }
+
+    .top-bar{
+
+        gap:12px;
+    }
+
+    #themeSwitcher{
+
+        width:100%;
+    }
+
+}
+
+/* =========================
+   SMALL MOBILE
+========================= */
+
+@media(max-width:400px){
+
+    .left-side h1{
+
+        font-size:32px;
+    }
+
+    .welcome{
+
+        font-size:26px;
+    }
+
+    .left-side,
+    .right-side{
+
+        padding:35px 20px;
+    }
+
+    .mini-tag{
+
+        font-size:11px;
+    }
+
+}
